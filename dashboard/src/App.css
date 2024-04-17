@@ -36,9 +36,15 @@ body {
     padding: 40px 20px;
   }
 }
+.logo {
+  width: 200px;
+  height: 120px;
+  margin-bottom: 3px;
+  border-radius: 2px;
+}
 @media (max-width: 460px) {
   .logo {
-    width: 100%;
+    width: 100px;
   }
 }
 .form-title{
