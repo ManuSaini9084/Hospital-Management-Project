@@ -1,4 +1,4 @@
-#                                                                            HOSPITAL MANAGEMENT SYSTEM
+##                                                                            HOSPITAL MANAGEMENT SYSTEM
 It's a web application for managing appointments between patients and doctors.It supports most of the standard functionalities.
 
 ## It has Three Panels :-
@@ -7,10 +7,10 @@ It's a web application for managing appointments between patients and doctors.It
 2. PATIENT PANEL ->It is a user panel where user login and fix it appointment with the doctor of any department they wants.
 3. DOCTOR PANEL ->It is doctor panel where doctor see the details of thier patients.
 
-# Technology Stack
-    **Back-End Technologies**: Node Js, Express Js, MySQL
-    **Front-End Technologies**: React Js, BootStrap
-    **Authentication** provided using JWT
+## Technology Stack
+    Back-End Technologies: Node Js, Express Js, MySQL
+    Front-End Technologies: React Js, BootStrap
+    Authentication provided using JWT
 
 #   1.USER LOGIN
    
@@ -48,5 +48,17 @@ It's a web application for managing appointments between patients and doctors.It
 
  # Instructions
 
-  Clone This Repo https: 
+  Clone This Repo https: (https://github.com/ManuSaini9084/Hospital-Management-Project.git)
   run
+  
+  *$ npm install
+   $ cd client
+   $ npm install*
+
+  Open 2 terminals and run
+  
+  *$ npm start
+   $ cd client
+   $ npm start*
+
+  Goto localhost:3000
