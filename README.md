@@ -1,16 +1,16 @@
 #                                                                            HOSPITAL MANAGEMENT SYSTEM
 It's a web application for managing appointments between patients and doctors.It supports most of the standard functionalities.
 
-# It has Three Panels :-
+## It has Three Panels :-
 
 1. ADMIN PANEL -> It provides entralised hub for managing the patients and doctors appointments along with the status accepted, rejected or pending.
 2. PATIENT PANEL ->It is a user panel where user login and fix it appointment with the doctor of any department they wants.
 3. DOCTOR PANEL ->It is doctor panel where doctor see the details of thier patients.
 
 # Technology Stack
-   Markup : *Back-End Technologies: Node Js, Express Js, MySQL
-            *Front-End Technologies: React Js, BootStrap
-            *Authentication provided using JWT
+    **Back-End Technologies**: Node Js, Express Js, MySQL
+    **Front-End Technologies**: React Js, BootStrap
+    **Authentication** provided using JWT
 
 #   1.USER LOGIN
    
@@ -30,26 +30,23 @@ It's a web application for managing appointments between patients and doctors.It
   
   ![Screenshot 2024-04-17 171716](https://github.com/ManuSaini9084/Hospital-Management-Project/assets/139550825/fd545566-df82-4a3b-8350-4c57848781e5)
   
- ># DASHBOARD PAGE
+># DASHBOARD PAGE
   
   ![Screenshot 2024-04-17 171759](https://github.com/ManuSaini9084/Hospital-Management-Project/assets/139550825/4fb49fda-ba78-4a3b-a0f1-85ce73ae4294)
 
-  ># DOCTORS PAGE
+># DOCTORS PAGE
   
-  ![Screenshot 2024-04-17 171813](https://github.com/ManuSaini9084/Hospital-Management-Project/assets/139550825/c8ff1c1c-9251-41ef-8746-f529a96df529)
+ ![Screenshot 2024-04-17 171813](https://github.com/ManuSaini9084/Hospital-Management-Project/assets/139550825/c8ff1c1c-9251-41ef-8746-f529a96df529)
 
-  ># ADD NEW DOCTOR
+># ADD NEW DOCTOR
 
-  ![Screenshot 2024-04-17 171927](https://github.com/ManuSaini9084/Hospital-Management-Project/assets/139550825/65300a4f-10e6-4cd3-b0a8-9af0d7890b3b)
+ ![Screenshot 2024-04-17 171927](https://github.com/ManuSaini9084/Hospital-Management-Project/assets/139550825/65300a4f-10e6-4cd3-b0a8-9af0d7890b3b)
 
-  # Instructions
-
-  Clone This Repo https:
-  Configure your utils/db.js file accordingly
-  run
-
-  ADD NEW ADMIN
+># ADD NEW ADMIN
   
   ![Screenshot 2024-04-17 171829](https://github.com/ManuSaini9084/Hospital-Management-Project/assets/139550825/6b12777f-68f1-4d1d-8499-4f48b468a8bf)
 
+ # Instructions
 
+  Clone This Repo https: 
+  run
