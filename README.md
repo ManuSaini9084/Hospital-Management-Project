@@ -49,16 +49,21 @@ It's a web application for managing appointments between patients and doctors.It
  # Instructions
 
   Clone This Repo https: (https://github.com/ManuSaini9084/Hospital-Management-Project.git)
+  
   run
   
-  *$ npm install
+  **$ npm install
+  
    $ cd client
-   $ npm install*
+   
+   $ npm install**
 
   Open 2 terminals and run
   
-  *$ npm start
+  **$ npm start
+  
    $ cd client
-   $ npm start*
+   
+   $ npm start**
 
   Goto localhost:3000
