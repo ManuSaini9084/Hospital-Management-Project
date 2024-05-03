@@ -60,10 +60,10 @@ It's a web application for managing appointments between patients and doctors.It
 
   Open 2 terminals and run
   
-   markup: **$ npm start
+   markup: $ npm start
   
            $ cd client
    
-           $ npm start**
+           $ npm start
 
   Goto localhost:3000
