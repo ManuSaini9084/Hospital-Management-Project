@@ -52,18 +52,18 @@ It's a web application for managing appointments between patients and doctors.It
   
   run
   
-  markup: $ npm install
+     $ npm install
   
-          $ cd client
+     $ cd client
    
-          $ npm install
+     $ npm install
 
   Open 2 terminals and run
   
-   markup: $ npm start
+     $ npm start
   
-           $ cd client
+     $ cd client
    
-           $ npm start
+     $ npm start
 
   Goto localhost:3000
